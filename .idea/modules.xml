@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IosDialog/IosDialog.iml" filepath="$PROJECT_DIR$/IosDialog/IosDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/banner/banner.iml" filepath="$PROJECT_DIR$/banner/banner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/barlibrary/barlibrary.iml" filepath="$PROJECT_DIR$/barlibrary/barlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commontitlebar/commontitlebar.iml" filepath="$PROJECT_DIR$/commontitlebar/commontitlebar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imageselectlibrary/imageselectlibrary.iml" filepath="$PROJECT_DIR$/imageselectlibrary/imageselectlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmsoldier.iml" filepath="$PROJECT_DIR$/jmsoldier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttputils/okhttputils.iml" filepath="$PROJECT_DIR$/okhttputils/okhttputils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/refreshview/refreshview.iml" filepath="$PROJECT_DIR$/refreshview/refreshview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statusbar-lib/statusbar-lib.iml" filepath="$PROJECT_DIR$/statusbar-lib/statusbar-lib.iml" />
+    </modules>
+  </component>
+</project>
